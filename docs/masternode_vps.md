@@ -143,7 +143,7 @@ You get the idea, another step to a fully automated setup... ;-)
 If you want to check the status of your masternode, the best way is currently running the cli e.g. via
 
 ```
-/usr/local/bin/mue-cli -conf=/etc/masternodes/mue_n1.conf getinfo
+/usr/local/bin/drip-cli -conf=/etc/masternodes/drip_n1.conf getinfo
 
 {
   "version": 1000302,
